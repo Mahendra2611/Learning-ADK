@@ -1,0 +1,4 @@
+- in simple llm, we just make api request to data which is public and model is trained
+- Agents : llm for specific uses
+- we add an extra layer to these llm to give reponse as per instruction in extra layer
+ - this layer has instruction (like how to fetch the data from db), tools , multi agents orchestration,  protection of sensitive data,
