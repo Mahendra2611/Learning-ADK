@@ -1,0 +1,3 @@
+- we can structure the input but it is more rigid as it says that input should be in defined structure
+- we can also structur the output where we create a class and specify it in output_schema, which ensure it return the result as object of this class.
+- we can also store this in the session or state using output_key
